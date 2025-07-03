@@ -1,0 +1,30 @@
+🗑️ Extensions to Remove – Detailed Justification
+
+1️⃣ Extension Name: Hola VPN - Your Website Unblocker
+❌ Reason for Removal:
+- Known for serious privacy violations.
+- Routes user traffic through other users' devices.
+- Can access and modify all data on all websites.
+- Previously flagged in cybersecurity reports for misuse.
+🔴 Risk Level: High
+
+2️⃣ Extension Name: SuperTab
+⚠️ Reason for Removal:
+- Unknown or unverified developer.
+- Requests access to browsing history with minimal functionality.
+- No clear value or necessity; may be collecting behavioral data.
+🟠 Risk Level: Medium
+
+3️⃣ Extension Name: Honey – Automatic Coupons & Rewards *(Optional)*
+⚠️ Reason for Consideration:
+- Owned by PayPal, but tracks shopping behavior.
+- Collects data on purchases and browsing activity on e-commerce sites.
+- May not be necessary unless regularly shopping online.
+🟠 Risk Level: Medium (Remove if not needed)
+
+📌 Recommendation:
+- ✅ Safe to Keep: AdGuard AdBlocker, Privacy Badger
+- ❌ Remove Hola VPN immediately
+- ⚠️ Remove SuperTab if unused
+- ⚠️ Remove Honey if privacy is a concern or if not actively used
+
