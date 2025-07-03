@@ -1,0 +1,31 @@
+🧩 Extension Review: Chrome Browser Extensions
+
+1️⃣ Extension Name: ✅ AdGuard AdBlocker
+🔒 Risk Level: Low
+📋 Permissions: Access to web content for ad blocking
+📝 Review: A trusted and efficient ad blocker that helps improve browsing speed and privacy. Open-source and well-maintained. No suspicious behavior noticed. Recommended for daily use.
+
+2️⃣ Extension Name: 🚨 Hola VPN - Your Website Unblocker
+🔴 Risk Level: High
+📋 Permissions: Full access to all websites, network routing permissions
+📝 Review: This extension has a shady history, including rerouting your internet traffic through other users' devices. It poses serious privacy concerns and has been previously blacklisted by security experts. Strongly advised to remove ❌.
+
+3️⃣ Extension Name: 🛍️ Honey – Automatic Coupons & Rewards
+🟠 Risk Level: Medium
+📋 Permissions: Access to shopping websites, coupon and cart data
+📝 Review: Useful for finding coupons while shopping online. However, it tracks shopping behavior and shares data with its parent company (PayPal). Not dangerous, but comes with data collection concerns.
+
+4️⃣ Extension Name: 🦊 Privacy Badger
+🔒 Risk Level: Low
+📋 Permissions: Behavior-based blocking of invisible trackers
+📝 Review: Created by the Electronic Frontier Foundation (EFF), this is a safe and intelligent tool that enhances user privacy without compromising performance. Highly recommended 👍.
+
+5️⃣ Extension Name: 🌀 SuperTab
+🟠 Risk Level: Medium
+📋 Permissions: Tab access, session data
+📝 Review: Helps manage browser tabs, but the developer is not well-known and its permission scope is broader than necessary. No major red flags found, but caution is advised due to limited transparency.
+
+📌 Summary:
+✅ Safe to keep: AdGuard AdBlocker, Privacy Badger
+⚠️ Medium risk (review or monitor): Honey, SuperTab
+❌ Remove immediately: Hola VPN
