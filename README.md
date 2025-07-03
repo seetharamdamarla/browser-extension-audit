@@ -71,5 +71,5 @@ This task involved auditing installed Chrome extensions to identify and remove t
 
 ---
 
-🏁 Conclusion
+## 🏁 Conclusion
 Through this task, I gained hands-on experience in identifying security risks associated with browser extensions. By carefully reviewing and removing unnecessary or potentially harmful add-ons, I improved both browser performance and personal privacy. This exercise highlighted the importance of regularly auditing extensions and being mindful of the permissions we grant. Staying secure online starts with small but essential steps like managing what runs inside our browser. 🛡️✨
