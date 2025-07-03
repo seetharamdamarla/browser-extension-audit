@@ -1,0 +1,31 @@
+📈 After Restart – Performance Observations:
+
+- The browser launched faster and felt more responsive.
+
+- Page load times improved slightly due to fewer background processes.
+
+- Memory and CPU usage decreased noticeably.
+
+- Annoying pop-ups or unwanted redirects stopped (especially after removing Hola VPN).
+
+🔬 How Malicious Extensions Can Harm Users
+
+1️⃣ Data Theft
+Malicious extensions can capture keystrokes, form data, passwords, and credit card numbers.
+
+2️⃣ Browser Hijacking
+They may inject ads, redirect search results, or change your homepage and search engine settings without permission.
+
+3️⃣ Behavioral Tracking
+Track your browsing history and online behavior to sell to advertisers or data brokers.
+
+4️⃣ Credential Stealing
+Some steal cookies or tokens and impersonate you on banking or social sites.
+
+5️⃣ Stealth & Persistence
+They may delay malicious behavior or act only on certain sites to evade detection.
+
+💡 Conclusion:
+Browser extensions can deeply affect your security and privacy. Always review permissions and only install from trusted sources.
+
+
