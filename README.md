@@ -1,4 +1,4 @@
-# 🧩 Task 7: Suspicious Browser Extensions Review
+# 🧩 Suspicious Browser Extensions Review
 
 ## 🔍 Overview
 This task involved auditing installed Chrome extensions to identify and remove those that could pose security or privacy risks. The goal was to ensure a safer browsing experience by eliminating high-risk or unnecessary add-ons.
