@@ -40,7 +40,8 @@ This task involved auditing installed Chrome extensions to identify and remove t
 
 ---
 
-## browser-extension-review/
+## 📁 Project Structure
+```
 ├── README.md
 ├── suspicious_extensions_review.txt
 ├── extensions_to_remove.txt
@@ -53,7 +54,7 @@ This task involved auditing installed Chrome extensions to identify and remove t
 │   ├── honey_details.png
 │   ├── adguard_details.png
 │   └── privacy_badger_details.png
-
+```
 
 ## 📁 Files Included
 - "suspicious_extensions_review.txt" – Detailed extension analysis.
